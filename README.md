@@ -7,3 +7,5 @@ https://courses.wesbos.com/account/access/5be1c798c413951cd2b17fcb/view/19413058
 https://github.com/wesbos/JavaScript30
 
 https://flight-manual.atom.io/using-atom/sections/atom-packages/
+
+hey!
